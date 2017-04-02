@@ -6,4 +6,6 @@ public class POBean {
 	private String fname;
 	private String order_status; // enum in database
 	private int address;
+	
+	//making a change
 }

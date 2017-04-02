@@ -8,6 +8,11 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+<<<<<<< HEAD
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_121"/>
+=======
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Shrey/Desktop/mysql-connector-java-5.1.41/mysql-connector-java-5.1.41-bin.jar"/>
+>>>>>>> branch 'master' of https://github.com/RohitSattu/j2ee-ecom-system.git
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
